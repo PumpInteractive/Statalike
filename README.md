@@ -1,6 +1,6 @@
 # Statalike
 
-A Static content plugin for CakePHP using Mardown-formatted text files.
+A Static content plugin for CakePHP using Mardown-formatted text files. Very similar to the content implementation of the [Statamic](http://www.statamic.com) CMS.
 
 ## Installation
 
