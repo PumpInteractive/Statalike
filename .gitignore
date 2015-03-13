@@ -1,0 +1,9 @@
+# MAC
+.DS_Store
+.SMB*
+
+# Windows
+Thumbs.db
+
+# Sublime Text Project Files
+*.sublime-project
